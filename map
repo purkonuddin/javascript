@@ -1,0 +1,11 @@
+function tampilkanPerintahMap()
+{
+  var data=['jakarta','bogor','bekasi'];
+  data.map((item,index,array)=>{
+    console.log(item);
+    console.log(index);
+    console.log(arrray);
+  });
+}
+
+tampilkanPerintahMap
